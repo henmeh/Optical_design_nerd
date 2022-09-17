@@ -1,0 +1,11 @@
+.myTable {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.myDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
